@@ -1,0 +1,4 @@
+XX	D2	D1	2	4
+XX	B1	B2	3	4
+XX	B1	B2	2	4
+XX	D1	D2	3	4

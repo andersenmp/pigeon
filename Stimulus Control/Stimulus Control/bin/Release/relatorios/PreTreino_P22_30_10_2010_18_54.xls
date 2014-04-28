@@ -1,0 +1,124 @@
+Tentativa	Modelo	Posicao	Resposta	TempoMod	Bloco
+1	xx	1	1	172.734	ESTÍMULOS_Branco+Pmix_48(a).txt
+2	xx	2	1	1.141	ESTÍMULOS_Branco+Pmix_48(a).txt
+3	xx	3	1	0.859	ESTÍMULOS_Branco+Pmix_48(a).txt
+4	xx	3	1	1.188	ESTÍMULOS_Branco+Pmix_48(a).txt
+5	xx	1	1	0.656	ESTÍMULOS_Branco+Pmix_48(a).txt
+6	xx	2	1	1.094	ESTÍMULOS_Branco+Pmix_48(a).txt
+7	xx	1	1	0.781	ESTÍMULOS_Branco+Pmix_48(a).txt
+8	xx	2	1	0.703	ESTÍMULOS_Branco+Pmix_48(a).txt
+9	B2	3	1	1.906	ESTÍMULOS_Branco+Pmix_48(a).txt
+10	D2	1	1	0.844	ESTÍMULOS_Branco+Pmix_48(a).txt
+11	B1	2	1	789.000	ESTÍMULOS_Branco+Pmix_48(a).txt
+12	A2	1	1	18.984	ESTÍMULOS_Branco+Pmix_48(a).txt
+13	A1	3	1	8.578	ESTÍMULOS_Branco+Pmix_48(a).txt
+14	D1	3	1	3.000	ESTÍMULOS_Branco+Pmix_48(a).txt
+15	C2	2	1	1.219	ESTÍMULOS_Branco+Pmix_48(a).txt
+16	C1	1	1	1.141	ESTÍMULOS_Branco+Pmix_48(a).txt
+17	C2	1	1	0.891	ESTÍMULOS_Branco+Pmix_48(a).txt
+18	D2	3	1	0.797	ESTÍMULOS_Branco+Pmix_48(a).txt
+19	B2	2	1	0.797	ESTÍMULOS_Branco+Pmix_48(a).txt
+20	A1	2	1	0.859	ESTÍMULOS_Branco+Pmix_48(a).txt
+21	A2	3	1	0.750	ESTÍMULOS_Branco+Pmix_48(a).txt
+22	C1	3	1	0.891	ESTÍMULOS_Branco+Pmix_48(a).txt
+23	D1	2	1	4.406	ESTÍMULOS_Branco+Pmix_48(a).txt
+24	B1	1	1	0.906	ESTÍMULOS_Branco+Pmix_48(a).txt
+25	C1	2	1	1.094	ESTÍMULOS_Branco+Pmix_48(a).txt
+26	D1	1	1	0.922	ESTÍMULOS_Branco+Pmix_48(a).txt
+27	B2	1	1	0.813	ESTÍMULOS_Branco+Pmix_48(a).txt
+28	A1	1	1	0.734	ESTÍMULOS_Branco+Pmix_48(a).txt
+29	B1	3	1	0.656	ESTÍMULOS_Branco+Pmix_48(a).txt
+30	A2	2	1	1.141	ESTÍMULOS_Branco+Pmix_48(a).txt
+31	C2	3	1	0.750	ESTÍMULOS_Branco+Pmix_48(a).txt
+32	D2	2	1	0.797	ESTÍMULOS_Branco+Pmix_48(a).txt
+33	A2	1	1	0.781	ESTÍMULOS_Branco+Pmix_48(a).txt
+34	B2	3	1	0.875	ESTÍMULOS_Branco+Pmix_48(a).txt
+35	C1	1	1	0.922	ESTÍMULOS_Branco+Pmix_48(a).txt
+36	B1	2	1	0.844	ESTÍMULOS_Branco+Pmix_48(a).txt
+37	A1	3	1	2.266	ESTÍMULOS_Branco+Pmix_48(a).txt
+38	D1	3	1	0.766	ESTÍMULOS_Branco+Pmix_48(a).txt
+39	C2	2	1	0.781	ESTÍMULOS_Branco+Pmix_48(a).txt
+40	D2	1	1	0.703	ESTÍMULOS_Branco+Pmix_48(a).txt
+41	B1	1	1	1.031	ESTÍMULOS_Branco+Pmix_48(a).txt
+42	D2	3	1	0.547	ESTÍMULOS_Branco+Pmix_48(a).txt
+43	C2	1	1	0.734	ESTÍMULOS_Branco+Pmix_48(a).txt
+44	A1	2	1	0.859	ESTÍMULOS_Branco+Pmix_48(a).txt
+45	C1	3	1	1.109	ESTÍMULOS_Branco+Pmix_48(a).txt
+46	A2	3	1	0.672	ESTÍMULOS_Branco+Pmix_48(a).txt
+47	B2	2	1	1.031	ESTÍMULOS_Branco+Pmix_48(a).txt
+48	D1	2	1	0.547	ESTÍMULOS_Branco+Pmix_48(a).txt
+49	C2	3	1	0.000	ESTÍMULOS_Pmix_48(b).txt
+50	B2	1	1	0.859	ESTÍMULOS_Pmix_48(b).txt
+51	D2	2	1	0.813	ESTÍMULOS_Pmix_48(b).txt
+52	A1	1	1	0.609	ESTÍMULOS_Pmix_48(b).txt
+53	B1	3	1	0.672	ESTÍMULOS_Pmix_48(b).txt
+54	D1	1	1	0.672	ESTÍMULOS_Pmix_48(b).txt
+55	A2	2	1	0.875	ESTÍMULOS_Pmix_48(b).txt
+56	C1	2	1	2.297	ESTÍMULOS_Pmix_48(b).txt
+57	C2	2	1	0.578	ESTÍMULOS_Pmix_48(b).txt
+58	D1	3	1	0.828	ESTÍMULOS_Pmix_48(b).txt
+59	B1	2	1	0.813	ESTÍMULOS_Pmix_48(b).txt
+60	D2	1	1	1.281	ESTÍMULOS_Pmix_48(b).txt
+61	C1	1	1	0.750	ESTÍMULOS_Pmix_48(b).txt
+62	B2	3	1	0.578	ESTÍMULOS_Pmix_48(b).txt
+63	A1	3	1	0.719	ESTÍMULOS_Pmix_48(b).txt
+64	A2	1	1	0.500	ESTÍMULOS_Pmix_48(b).txt
+65	B2	2	1	1.422	ESTÍMULOS_Pmix_48(b).txt
+66	B1	1	1	1.750	ESTÍMULOS_Pmix_48(b).txt
+67	D2	3	1	0.625	ESTÍMULOS_Pmix_48(b).txt
+68	A1	2	1	0.922	ESTÍMULOS_Pmix_48(b).txt
+69	C1	3	1	0.609	ESTÍMULOS_Pmix_48(b).txt
+70	C2	1	1	0.688	ESTÍMULOS_Pmix_48(b).txt
+71	A2	3	1	0.563	ESTÍMULOS_Pmix_48(b).txt
+72	D1	2	1	0.844	ESTÍMULOS_Pmix_48(b).txt
+73	B1	3	1	0.672	ESTÍMULOS_Pmix_48(b).txt
+74	C2	3	1	1.813	ESTÍMULOS_Pmix_48(b).txt
+75	C1	2	1	1.281	ESTÍMULOS_Pmix_48(b).txt
+76	A2	2	1	0.813	ESTÍMULOS_Pmix_48(b).txt
+77	A1	1	1	1.891	ESTÍMULOS_Pmix_48(b).txt
+78	D2	2	1	1.141	ESTÍMULOS_Pmix_48(b).txt
+79	D1	1	1	0.875	ESTÍMULOS_Pmix_48(b).txt
+80	B2	1	1	1.188	ESTÍMULOS_Pmix_48(b).txt
+81	C1	1	1	0.781	ESTÍMULOS_Pmix_48(b).txt
+82	B2	3	1	0.641	ESTÍMULOS_Pmix_48(b).txt
+83	A1	3	1	0.703	ESTÍMULOS_Pmix_48(b).txt
+84	C2	2	1	0.938	ESTÍMULOS_Pmix_48(b).txt
+85	B1	2	1	1.469	ESTÍMULOS_Pmix_48(b).txt
+86	A2	1	1	0.625	ESTÍMULOS_Pmix_48(b).txt
+87	D2	1	1	1.141	ESTÍMULOS_Pmix_48(b).txt
+88	D1	3	1	0.625	ESTÍMULOS_Pmix_48(b).txt
+89	D1	2	1	0.969	ESTÍMULOS_Pmix_48(b).txt
+90	A2	3	1	0.547	ESTÍMULOS_Pmix_48(b).txt
+91	D2	3	1	0.953	ESTÍMULOS_Pmix_48(b).txt
+92	A1	2	1	0.828	ESTÍMULOS_Pmix_48(b).txt
+93	B1	1	1	0.641	ESTÍMULOS_Pmix_48(b).txt
+94	C1	3	1	0.531	ESTÍMULOS_Pmix_48(b).txt
+95	C2	1	1	0.750	ESTÍMULOS_Pmix_48(b).txt
+96	B2	2	1	0.875	ESTÍMULOS_Pmix_48(b).txt
+Tempo total:	2140.000
+
+Parametros
+Chk Pontuacao:	False
+Qtd Pontuacao:	10
+Tempo IET:	5000
+Chk Comedouro:	True
+Tempo Comedouro:	6000
+Chk Timeout:	False
+Tempo Timeout:	500
+Chk Luz IET:	False
+Local Luz IET:	0
+Tempo Luz IET:	500
+Chk TP:	False
+Tempo TP:	500
+Chk Delay:	True
+Tempo Delay:	0
+Chk Luz Tentativa:	False
+Chk Luz Comedouro:	False
+Chk BeepRes:	True
+Chk BeepRef:	False
+Chk Tempo Resposta:	False
+Tempo Resposta:	60000
+Chk Tempo Sessao:	False
+Tempo Sessao:	60000
+Bicadas Modelo:	1
+Bicadas Comp:	1

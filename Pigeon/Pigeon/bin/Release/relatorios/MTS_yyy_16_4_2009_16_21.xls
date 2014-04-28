@@ -1,0 +1,3 @@
+Tentativa	Acerto	Modelo	CompE	CompD	S+	Resposta	TempoMod	TempoDelay	TempoComp	Bloco	Correcao
+1	0	A2	B2	B1	2	3	1,109	0,000	1,875	LB_05,txt	0
+2	1	A2	B2	B1	2	2	1,313	0,000	2,375	LB_05,txt	1

@@ -1,0 +1,5 @@
+Tentativa	Acerto	Modelo	CompE	CompD	CompEi	CompDi	S+	PosModelo	Resposta	BicadasCompCorreto	TempoMod	TempoDelay	TempoComp	Bloco	Correcao
+1	1	A1	B1	B2	0	0	2	1	2	10	6,770	0	14,891	Teste,txt	0
+2	0	A1	B1	B2	0	0	1	2	2	0	3,535	0	6,169	Teste,txt	0
+3	0	A1	B1	B2	0	0	1	2	3	10	9,804	0	5,077	Teste,txt	1
+4	0	A1	B1	B2	0	0	1	2	3	0	9,804	0	9,083	Teste,txt	2

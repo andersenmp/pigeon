@@ -1,0 +1,36 @@
+Tentativa	Acerto	Modelo	CompE	CompD	S+	Resposta	TempoMod	TempoDelay	TempoComp	Bloco	Correcao
+1	1	C2	D1	D2	3	3	1,125	0,000	1,047	LB_90%_03X,txt	0
+2	0	A2	B2,2	B1,1	2	3	0,453	0,000	32,094	LB_90%_03X,txt	0
+3	1	A1	B1	B2,1	2	2	0,953	0,000	13,156	LB_90%_03X,txt	0
+4	1	C1	D2	D1	3	3	1,047	0,000	2,234	LB_90%_03X,txt	0
+5	1	A1	B2,1	B1	3	3	1,094	0,000	10,906	LB_90%_03X,txt	0
+6	1	C1	D1	D2	2	2	0,953	0,000	1,906	LB_90%_03X,txt	0
+Sessao Interrompida Tentativa:	7	%Acerto parcial:	71,429%
+ 		%Acerto parcial correcao:	71,429%
+Tempo total:	118,453	%Acerto Geral:	5,208%
+ 	 	%Acerto Geral Correcao:	5,208%
+Total Planejado:	96,000
+Total Correcoes:	0,000
+
+Parametros
+Tempo IET:	1000
+Chk Comedouro:	False
+Tempo Comedouro:	500
+Chk Timeout:	False
+Tempo Timeout:	500
+Chk Luz IET:	False
+Local Luz IET:	1
+Tempo Luz IET:	500
+Chk TP:	False
+Tempo TP:	2000
+Chk Delay:	False
+Tempo Delay:	2000
+Chk Luz Tentativa:	False
+Chk Luz Comedouro:	False
+Chk Beep:	False
+Chk Tempo Resposta:	False
+Tempo Resposta:	60000
+Chk Tempo Sessao:	False
+Tempo Sessao:	60000
+Bicadas Modelo:	1
+Bicadas Comp:	1

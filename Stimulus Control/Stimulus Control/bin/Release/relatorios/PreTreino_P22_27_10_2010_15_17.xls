@@ -1,0 +1,100 @@
+Tentativa	Modelo	Posicao	Resposta	TempoMod	Bloco
+1	xx	1	1	44.500	BRANCO_Pmix_72.txt
+2	xx	1	1	313.078	BRANCO_Pmix_72.txt
+3	xx	1	1	2.469	BRANCO_Pmix_72.txt
+4	xx	1	1	0.844	BRANCO_Pmix_72.txt
+5	xx	1	1	1.047	BRANCO_Pmix_72.txt
+6	xx	1	1	1.953	BRANCO_Pmix_72.txt
+7	xx	1	1	1.203	BRANCO_Pmix_72.txt
+8	xx	1	1	1.109	BRANCO_Pmix_72.txt
+9	xx	2	1	1.297	BRANCO_Pmix_72.txt
+10	xx	2	1	4.656	BRANCO_Pmix_72.txt
+11	xx	2	1	1.672	BRANCO_Pmix_72.txt
+12	xx	2	1	1.266	BRANCO_Pmix_72.txt
+13	xx	2	1	0.891	BRANCO_Pmix_72.txt
+14	xx	2	1	4.219	BRANCO_Pmix_72.txt
+15	xx	2	1	3.891	BRANCO_Pmix_72.txt
+16	xx	2	1	1.625	BRANCO_Pmix_72.txt
+17	xx	3	1	2.766	BRANCO_Pmix_72.txt
+18	xx	3	1	1.188	BRANCO_Pmix_72.txt
+19	xx	3	1	1.047	BRANCO_Pmix_72.txt
+20	xx	3	1	2.094	BRANCO_Pmix_72.txt
+21	xx	3	1	0.969	BRANCO_Pmix_72.txt
+22	xx	3	1	0.844	BRANCO_Pmix_72.txt
+23	xx	3	1	1.172	BRANCO_Pmix_72.txt
+24	xx	3	1	0.859	BRANCO_Pmix_72.txt
+25	xx	1	1	1.344	BRANCO_Pmix_72.txt
+26	xx	2	1	0.875	BRANCO_Pmix_72.txt
+27	xx	3	1	1.219	BRANCO_Pmix_72.txt
+28	xx	3	1	1.156	BRANCO_Pmix_72.txt
+29	xx	1	1	3.813	BRANCO_Pmix_72.txt
+30	xx	2	1	1.375	BRANCO_Pmix_72.txt
+31	xx	1	1	0.859	BRANCO_Pmix_72.txt
+32	xx	2	1	0.953	BRANCO_Pmix_72.txt
+33	xx	2	1	3.203	BRANCO_Pmix_72.txt
+34	xx	1	1	2.688	BRANCO_Pmix_72.txt
+35	xx	1	1	224.609	BRANCO_Pmix_72.txt
+36	xx	1	1	1.766	BRANCO_Pmix_72.txt
+37	xx	3	1	44.000	BRANCO_Pmix_72.txt
+38	xx	2	1	15.922	BRANCO_Pmix_72.txt
+39	xx	3	1	47.859	BRANCO_Pmix_72.txt
+40	xx	2	1	1.891	BRANCO_Pmix_72.txt
+41	xx	3	1	1.016	BRANCO_Pmix_72.txt
+42	xx	1	1	0.797	BRANCO_Pmix_72.txt
+43	xx	2	1	1.125	BRANCO_Pmix_72.txt
+44	xx	1	1	0.719	BRANCO_Pmix_72.txt
+45	xx	3	1	0.844	BRANCO_Pmix_72.txt
+46	xx	1	1	0.703	BRANCO_Pmix_72.txt
+47	xx	2	1	0.688	BRANCO_Pmix_72.txt
+48	xx	2	1	1.141	BRANCO_Pmix_72.txt
+49	xx	3	1	0.875	BRANCO_Pmix_72.txt
+50	xx	3	1	0.813	BRANCO_Pmix_72.txt
+51	xx	2	1	1.031	BRANCO_Pmix_72.txt
+52	xx	2	1	2.359	BRANCO_Pmix_72.txt
+53	xx	1	1	0.953	BRANCO_Pmix_72.txt
+54	xx	2	1	0.844	BRANCO_Pmix_72.txt
+55	xx	1	1	1.156	BRANCO_Pmix_72.txt
+56	xx	1	1	0.656	BRANCO_Pmix_72.txt
+57	xx	3	1	0.813	BRANCO_Pmix_72.txt
+58	xx	1	1	0.750	BRANCO_Pmix_72.txt
+59	xx	2	1	1.172	BRANCO_Pmix_72.txt
+60	xx	1	1	1.047	BRANCO_Pmix_72.txt
+61	xx	3	1	1.703	BRANCO_Pmix_72.txt
+62	xx	3	1	0.578	BRANCO_Pmix_72.txt
+63	xx	2	1	11.547	BRANCO_Pmix_72.txt
+64	xx	1	1	1.047	BRANCO_Pmix_72.txt
+65	xx	1	1	1.859	BRANCO_Pmix_72.txt
+66	xx	3	1	4.219	BRANCO_Pmix_72.txt
+67	xx	1	1	0.828	BRANCO_Pmix_72.txt
+68	xx	2	1	1.531	BRANCO_Pmix_72.txt
+69	xx	3	1	2.563	BRANCO_Pmix_72.txt
+70	xx	3	1	0.938	BRANCO_Pmix_72.txt
+71	xx	2	1	36.578	BRANCO_Pmix_72.txt
+72	xx	1	1	1.641	BRANCO_Pmix_72.txt
+Tempo total:	1629.406
+
+Parametros
+Chk Pontuacao:	False
+Qtd Pontuacao:	10
+Tempo IET:	5000
+Chk Comedouro:	True
+Tempo Comedouro:	6000
+Chk Timeout:	False
+Tempo Timeout:	500
+Chk Luz IET:	False
+Local Luz IET:	0
+Tempo Luz IET:	500
+Chk TP:	False
+Tempo TP:	500
+Chk Delay:	True
+Tempo Delay:	0
+Chk Luz Tentativa:	False
+Chk Luz Comedouro:	False
+Chk BeepRes:	False
+Chk BeepRef:	False
+Chk Tempo Resposta:	False
+Tempo Resposta:	60000
+Chk Tempo Sessao:	False
+Tempo Sessao:	60000
+Bicadas Modelo:	1
+Bicadas Comp:	1

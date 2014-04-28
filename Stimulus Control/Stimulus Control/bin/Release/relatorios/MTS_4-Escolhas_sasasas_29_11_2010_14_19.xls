@@ -1,0 +1,36 @@
+Tentativa	Acerto	Modelo	CompE	CompD	CompEi	CompDi	S+	PosModelo	Resposta	BicadasCompCorreto	TempoMod	TempoDelay	TempoComp	Bloco	Correcao
+Sessao Interrompida Tentativa:	1	%Acerto parcial:	0,000%
+ 		%Acerto parcial correcao:	0,000%
+Tempo total:	22,203	%Acerto Geral:	0,000%
+ 	 	%Acerto Geral Correcao:	0,000%
+Total Planejado:	72,000
+Total Correcoes:	0,000
+Pontos: 0
+
+Parametros
+Chk Pontuacao:	False
+Qtd Pontuacao:	1
+Tempo IET:	10000
+Chk Comedouro:	True
+Tempo Comedouro:	4000
+Chk Timeout:	False
+Tempo Timeout:	500
+Chk DuracaoIncor:	False
+Duracao Incor:	500
+Chk Luz IET:	True
+Local Luz IET:	0
+Tempo Luz IET:	9000
+Chk TP:	False
+Tempo TP:	500
+Chk Delay:	False
+Tempo Delay:	500
+Chk Luz Tentativa:	False
+Chk Luz Comedouro:	False
+Chk BeepRes:	True
+Chk BeepRef:	False
+Chk Tempo Resposta:	False
+Tempo Resposta:	60000
+Chk Tempo Sessao:	False
+Tempo Sessao:	60000
+Bicadas Modelo:	10
+Bicadas Comp:	10

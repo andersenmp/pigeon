@@ -1,0 +1,49 @@
+Tentativa	Acerto	Modelo	CompE	CompD	CompEi	CompDi	S+	PosModelo	Resposta	BicadasCompCorreto	TempoMod	TempoDelay	TempoComp	Bloco	Correcao
+1	0	A1	B1	B2	0	0	2	1	3	10	4,476	0	3,876	Teste,txt	0
+2	3	A1	B1	B2	0	0	2	1	2	1	2,684	0	7,090	Teste,txt	1
+3	0	A1	B1	B2	0	0	1	2	3	10	3,725	0	3,335	Teste,txt	0
+4	0	A1	B1	B2	0	0	1	2	3	10	3,064	0	3,425	Teste,txt	1
+5	3	A1	B1	B2	0	0	1	2	1	1	2,924	0	6,880	Teste,txt	2
+6	0	A1	B1	B2	0	0	2	3	1	10	3,765	0	5,648	Teste,txt	0
+7	0	A1	B1	B2	0	0	2	3	1	10	3,345	0	3,295	Teste,txt	1
+8	0	A1	B1	B2	0	0	2	3	1	10	3,275	0	4,026	Teste,txt	2
+9	3	A1	B1	B2	0	0	2	3	2	1	2,784	0	7,331	Teste,txt	3
+10	1	A1	B2	B1	0	0	3	1	3	10	4,476	0	2,964	Teste,txt	0
+11	0	A1	B2	B1	0	0	3	2	1	10	2,373	0	2,824	Teste,txt	0
+12	0	A1	B2	B1	0	0	3	2	1	10	2,413	0	4,106	Teste,txt	1
+13	0	A1	B2	B1	0	0	3	2	1	10	2,704	0	3,275	Teste,txt	2
+14	1	A1	B2	B1	0	0	3	2	3	10	2,303	0	2,854	Teste,txt	3
+15	3	A1	B2	B1	0	0	1	3	1	1	2,243	0	5,868	Teste,txt	0
+Tempo total:	96,719	%Acerto Geral:	16,667%
+ 	 	%Acerto Geral Correcao:	10,526%
+Total Planejado:	6,000
+Total Correcoes:	13,000
+Pontos: 1
+
+Parametros
+Chk Pontuacao:	False
+Qtd Pontuacao:	1
+Tempo IET:	500
+Chk Comedouro:	True
+Tempo Comedouro:	250
+Chk Timeout:	False
+Tempo Timeout:	2000
+Chk DuracaoIncor:	False
+Duracao Incor:	3000
+Chk Luz IET:	False
+Local Luz IET:	0
+Tempo Luz IET:	500
+Chk TP:	True
+Tempo TP:	500
+Chk Delay:	True
+Tempo Delay:	0
+Chk Luz Tentativa:	False
+Chk Luz Comedouro:	False
+Chk BeepRes:	True
+Chk BeepRef:	False
+Chk Tempo Resposta:	False
+Tempo Resposta:	60000
+Chk Tempo Sessao:	False
+Tempo Sessao:	60000
+Bicadas Modelo:	10
+Bicadas Comp:	10

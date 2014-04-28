@@ -1,0 +1,124 @@
+C:\Users\Andersen\AppData\Local\Temporary Projects\Pigeon\bin\Debug\Pigeon.exe
+C:\Users\Andersen\AppData\Local\Temporary Projects\Pigeon\bin\Debug\Pigeon.pdb
+C:\Users\Andersen\AppData\Local\Temporary Projects\Pigeon\bin\Debug\Pigeon.xml
+C:\Users\Andersen\AppData\Local\Temporary Projects\Pigeon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andersen\AppData\Local\Temporary Projects\Pigeon\obj\Debug\Pigeon.formSplash.resources
+C:\Users\Andersen\AppData\Local\Temporary Projects\Pigeon\obj\Debug\Pigeon.Resources.resources
+C:\Users\Andersen\AppData\Local\Temporary Projects\Pigeon\obj\Debug\Pigeon.vbproj.GenerateResource.Cache
+C:\Users\Andersen\AppData\Local\Temporary Projects\Pigeon\obj\Debug\Pigeon.exe
+C:\Users\Andersen\AppData\Local\Temporary Projects\Pigeon\obj\Debug\Pigeon.xml
+C:\Users\Andersen\AppData\Local\Temporary Projects\Pigeon\obj\Debug\Pigeon.pdb
+C:\Users\Andersen\Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Pigeon.exe
+C:\Users\Andersen\Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Pigeon.xml
+C:\Users\Andersen\Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Pigeon.pdb
+C:\Users\Andersen\Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\bin\Debug\Pigeon.exe
+C:\Users\Andersen\Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\bin\Debug\Pigeon.pdb
+C:\Users\Andersen\Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\bin\Debug\Pigeon.xml
+C:\Users\Andersen\Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andersen\Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Pigeon.formSplash.resources
+C:\Users\Andersen\Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Pigeon.Resources.resources
+C:\Users\Andersen\Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Pigeon.vbproj.GenerateResource.Cache
+C:\Users\Andersen\Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Pigeon.formExperimento.resources
+C:\Users\Andersen\Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Pigeon.formConfig.resources
+C:\Users\Andersen\Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Pigeon.formSobre.resources
+C:\Documents and Settings\Saulo\Desktop\PigeonFontes_1001\Pigeon\obj\Debug\Pigeon.exe
+C:\Documents and Settings\Saulo\Desktop\PigeonFontes_1001\Pigeon\obj\Debug\Pigeon.xml
+C:\Documents and Settings\Saulo\Desktop\PigeonFontes_1001\Pigeon\obj\Debug\Pigeon.pdb
+C:\Documents and Settings\Saulo\Desktop\PigeonFontes_1001\Pigeon\bin\Debug\Pigeon.exe
+C:\Documents and Settings\Saulo\Desktop\PigeonFontes_1001\Pigeon\bin\Debug\Pigeon.pdb
+C:\Documents and Settings\Saulo\Desktop\PigeonFontes_1001\Pigeon\bin\Debug\Pigeon.xml
+C:\Documents and Settings\Saulo\Desktop\PigeonFontes_1001\Pigeon\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Saulo\Desktop\PigeonFontes_1001\Pigeon\obj\Debug\Pigeon.formConfig.resources
+C:\Documents and Settings\Saulo\Desktop\PigeonFontes_1001\Pigeon\obj\Debug\Pigeon.formExperimento.resources
+C:\Documents and Settings\Saulo\Desktop\PigeonFontes_1001\Pigeon\obj\Debug\Pigeon.formSobre.resources
+C:\Documents and Settings\Saulo\Desktop\PigeonFontes_1001\Pigeon\obj\Debug\Pigeon.formSplash.resources
+C:\Documents and Settings\Saulo\Desktop\PigeonFontes_1001\Pigeon\obj\Debug\Pigeon.Resources.resources
+C:\Documents and Settings\Saulo\Desktop\PigeonFontes_1001\Pigeon\obj\Debug\Pigeon.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1203\Pigeon\obj\Debug\Pigeon.exe
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1203\Pigeon\obj\Debug\Pigeon.xml
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1203\Pigeon\obj\Debug\Pigeon.pdb
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1203\Pigeon\bin\Debug\Pigeon.exe
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1203\Pigeon\bin\Debug\Pigeon.pdb
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1203\Pigeon\bin\Debug\Pigeon.xml
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1203\Pigeon\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1203\Pigeon\obj\Debug\Pigeon.formConfig.resources
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1203\Pigeon\obj\Debug\Pigeon.formExperimento.resources
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1203\Pigeon\obj\Debug\Pigeon.formSobre.resources
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1203\Pigeon\obj\Debug\Pigeon.formSplash.resources
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1203\Pigeon\obj\Debug\Pigeon.Resources.resources
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1203\Pigeon\obj\Debug\Pigeon.vbproj.GenerateResource.Cache
+C:\Users\Andersen\Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\bin\Debug\Interop.KDIGIOLib.dll
+C:\Users\Andersen\Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Interop.KDIGIOLib.dll
+C:\Users\Andersen\Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Pigeon.vbproj.ResolveComReference.cache
+C:\Users\Andersen\Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Pigeon.formDrvLINX.resources
+C:\Documents and Settings\Saulo\Desktop\Pigeon\Pigeon\bin\Debug\Pigeon.exe
+C:\Documents and Settings\Saulo\Desktop\Pigeon\Pigeon\bin\Debug\Pigeon.pdb
+C:\Documents and Settings\Saulo\Desktop\Pigeon\Pigeon\bin\Debug\Pigeon.xml
+C:\Documents and Settings\Saulo\Desktop\Pigeon\Pigeon\bin\Debug\Interop.KDIGIOLib.dll
+C:\Documents and Settings\Saulo\Desktop\Pigeon\Pigeon\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Saulo\Desktop\Pigeon\Pigeon\obj\Debug\Interop.KDIGIOLib.dll
+C:\Documents and Settings\Saulo\Desktop\Pigeon\Pigeon\obj\Debug\Pigeon.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Saulo\Desktop\Pigeon\Pigeon\obj\Debug\Pigeon.formConfig.resources
+C:\Documents and Settings\Saulo\Desktop\Pigeon\Pigeon\obj\Debug\Pigeon.formExperimento.resources
+C:\Documents and Settings\Saulo\Desktop\Pigeon\Pigeon\obj\Debug\Pigeon.formDrvLINX.resources
+C:\Documents and Settings\Saulo\Desktop\Pigeon\Pigeon\obj\Debug\Pigeon.formSobre.resources
+C:\Documents and Settings\Saulo\Desktop\Pigeon\Pigeon\obj\Debug\Pigeon.formSplash.resources
+C:\Documents and Settings\Saulo\Desktop\Pigeon\Pigeon\obj\Debug\Pigeon.Resources.resources
+C:\Documents and Settings\Saulo\Desktop\Pigeon\Pigeon\obj\Debug\Pigeon.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Saulo\Desktop\Pigeon\Pigeon\obj\Debug\Pigeon.exe
+C:\Documents and Settings\Saulo\Desktop\Pigeon\Pigeon\obj\Debug\Pigeon.xml
+C:\Documents and Settings\Saulo\Desktop\Pigeon\Pigeon\obj\Debug\Pigeon.pdb
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1300\Pigeon\bin\Debug\Pigeon.exe
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1300\Pigeon\bin\Debug\Pigeon.pdb
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1300\Pigeon\bin\Debug\Pigeon.xml
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1300\Pigeon\bin\Debug\Interop.KDIGIOLib.dll
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1300\Pigeon\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1300\Pigeon\obj\Debug\Interop.KDIGIOLib.dll
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1300\Pigeon\obj\Debug\Pigeon.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1300\Pigeon\obj\Debug\Pigeon.formConfig.resources
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1300\Pigeon\obj\Debug\Pigeon.formExperimento.resources
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1300\Pigeon\obj\Debug\Pigeon.formDrvLINX.resources
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1300\Pigeon\obj\Debug\Pigeon.formSobre.resources
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1300\Pigeon\obj\Debug\Pigeon.formSplash.resources
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1300\Pigeon\obj\Debug\Pigeon.Resources.resources
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1300\Pigeon\obj\Debug\Pigeon.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1300\Pigeon\obj\Debug\Pigeon.exe
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1300\Pigeon\obj\Debug\Pigeon.xml
+C:\Documents and Settings\Saulo\Desktop\Pigeon_1300\Pigeon\obj\Debug\Pigeon.pdb
+D:\Saulo\Pigeon_1300\Pigeon\bin\Debug\Pigeon.exe
+D:\Saulo\Pigeon_1300\Pigeon\bin\Debug\Pigeon.pdb
+D:\Saulo\Pigeon_1300\Pigeon\bin\Debug\Pigeon.xml
+D:\Saulo\Pigeon_1300\Pigeon\bin\Debug\Interop.KDIGIOLib.dll
+D:\Saulo\Pigeon_1300\Pigeon\obj\Debug\ResolveAssemblyReference.cache
+D:\Saulo\Pigeon_1300\Pigeon\obj\Debug\Interop.KDIGIOLib.dll
+D:\Saulo\Pigeon_1300\Pigeon\obj\Debug\Pigeon.vbproj.ResolveComReference.cache
+D:\Saulo\Pigeon_1300\Pigeon\obj\Debug\Pigeon.formConfig.resources
+D:\Saulo\Pigeon_1300\Pigeon\obj\Debug\Pigeon.formExperimento.resources
+D:\Saulo\Pigeon_1300\Pigeon\obj\Debug\Pigeon.formDrvLINX.resources
+D:\Saulo\Pigeon_1300\Pigeon\obj\Debug\Pigeon.formSobre.resources
+D:\Saulo\Pigeon_1300\Pigeon\obj\Debug\Pigeon.formSplash.resources
+D:\Saulo\Pigeon_1300\Pigeon\obj\Debug\Pigeon.Resources.resources
+D:\Saulo\Pigeon_1300\Pigeon\obj\Debug\Pigeon.vbproj.GenerateResource.Cache
+D:\Saulo\Pigeon_1300\Pigeon\obj\Debug\Pigeon.exe
+D:\Saulo\Pigeon_1300\Pigeon\obj\Debug\Pigeon.xml
+D:\Saulo\Pigeon_1300\Pigeon\obj\Debug\Pigeon.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\bin\Debug\Pigeon.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\bin\Debug\Pigeon.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\bin\Debug\Pigeon.xml
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\bin\Debug\Interop.KDIGIOLib.dll
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Interop.KDIGIOLib.dll
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Pigeon.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Pigeon.formConfig.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Pigeon.formExperimento.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Pigeon.formDrvLINX.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Pigeon.formSobre.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Pigeon.formSplash.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Pigeon.Resources.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Pigeon.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Pigeon.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Pigeon.xml
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Pigeon.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Pigeon\Pigeon\obj\Debug\Pigeon.formExperimentoHB.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Pigeon\obj\Debug\Interop.KDIGIOLib.dll
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Pigeon\obj\Debug\Pigeon.vbproj.ResolveComReference.cache

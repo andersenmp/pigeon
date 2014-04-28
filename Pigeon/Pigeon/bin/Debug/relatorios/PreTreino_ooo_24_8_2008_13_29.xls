@@ -1,0 +1,28 @@
+Tentativa	Modelo	Posicao	Resposta	TempoMod	Bloco
+1	xx	1	1	3,344	AUTOMODELAGEM,txt
+2	xx	1	1	2,578	AUTOMODELAGEM,txt
+3	xx	1	1	1,563	AUTOMODELAGEM,txt
+Tempo total:	13,984
+
+Parametros
+Tempo IET:	1000
+Chk Comedouro:	True
+Tempo Comedouro:	500
+Chk Timeout:	False
+Tempo Timeout:	500
+Chk Luz IET:	True
+Local Luz IET:	1
+Tempo Luz IET:	500
+Chk TP:	False
+Tempo TP:	2000
+Chk Delay:	False
+Tempo Delay:	2000
+Chk Luz Tentativa:	False
+Chk Luz Comedouro:	False
+Chk Beep:	True
+Chk Tempo Resposta:	False
+Tempo Resposta:	60000
+Chk Tempo Sessao:	False
+Tempo Sessao:	60000
+Bicadas Modelo:	5
+Bicadas Comp:	1

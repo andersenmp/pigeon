@@ -1,0 +1,387 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Pigeon\obj\Debug\Interop.KDIGIOLib.dll
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Pigeon\obj\Debug\Stimulus Control.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Pigeon\bin\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Pigeon\bin\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Pigeon\bin\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Pigeon\bin\Debug\Interop.KDIGIOLib.dll
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Pigeon\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Pigeon\obj\Debug\Stimulus_Control.formConfig.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Pigeon\obj\Debug\Stimulus_Control.formDrvLINX.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Pigeon\obj\Debug\Stimulus_Control.formExperimento.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Pigeon\obj\Debug\Stimulus_Control.formExperimentoHB.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Pigeon\obj\Debug\Stimulus_Control.formSobre.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Pigeon\obj\Debug\Stimulus_Control.formSplash.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Pigeon\obj\Debug\Stimulus_Control.Resources.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Pigeon\obj\Debug\Stimulus Control.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Pigeon\obj\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Pigeon\obj\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Pigeon\obj\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Stimulus Control\obj\Debug\Interop.KDIGIOLib.dll
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Stimulus Control\obj\Debug\Stimulus Control.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Stimulus Control\bin\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Stimulus Control\bin\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Stimulus Control\bin\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Stimulus Control\bin\Debug\Interop.KDIGIOLib.dll
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Stimulus Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.formConfig.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.formDrvLINX.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.formExperimento.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.formExperimentoHB.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.formSobre.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.formSplash.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.Resources.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Stimulus Control\obj\Debug\Stimulus Control.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Saulo&Tathi\Desktop\New Folder\Stimulus Control\Stimulus Control\bin\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Saulo&Tathi\Desktop\New Folder\Stimulus Control\Stimulus Control\bin\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Saulo&Tathi\Desktop\New Folder\Stimulus Control\Stimulus Control\bin\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Saulo&Tathi\Desktop\New Folder\Stimulus Control\Stimulus Control\bin\Debug\Interop.KDIGIOLib.dll
+C:\Documents and Settings\Saulo&Tathi\Desktop\New Folder\Stimulus Control\Stimulus Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Saulo&Tathi\Desktop\New Folder\Stimulus Control\Stimulus Control\obj\Debug\Interop.KDIGIOLib.dll
+C:\Documents and Settings\Saulo&Tathi\Desktop\New Folder\Stimulus Control\Stimulus Control\obj\Debug\Stimulus Control.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Saulo&Tathi\Desktop\New Folder\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.formConfig.resources
+C:\Documents and Settings\Saulo&Tathi\Desktop\New Folder\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.formDrvLINX.resources
+C:\Documents and Settings\Saulo&Tathi\Desktop\New Folder\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.formExperimento.resources
+C:\Documents and Settings\Saulo&Tathi\Desktop\New Folder\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.formExperimentoHB.resources
+C:\Documents and Settings\Saulo&Tathi\Desktop\New Folder\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.formSobre.resources
+C:\Documents and Settings\Saulo&Tathi\Desktop\New Folder\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.formSplash.resources
+C:\Documents and Settings\Saulo&Tathi\Desktop\New Folder\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.Resources.resources
+C:\Documents and Settings\Saulo&Tathi\Desktop\New Folder\Stimulus Control\Stimulus Control\obj\Debug\Stimulus Control.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Saulo&Tathi\Desktop\New Folder\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Saulo&Tathi\Desktop\New Folder\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Saulo&Tathi\Desktop\New Folder\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Saulo&Tathi\Desktop\Stimulus Control\Stimulus Control\bin\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Saulo&Tathi\Desktop\Stimulus Control\Stimulus Control\bin\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Saulo&Tathi\Desktop\Stimulus Control\Stimulus Control\bin\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Saulo&Tathi\Desktop\Stimulus Control\Stimulus Control\bin\Debug\Interop.KDIGIOLib.dll
+C:\Documents and Settings\Saulo&Tathi\Desktop\Stimulus Control\Stimulus Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Saulo&Tathi\Desktop\Stimulus Control\Stimulus Control\obj\Debug\Interop.KDIGIOLib.dll
+C:\Documents and Settings\Saulo&Tathi\Desktop\Stimulus Control\Stimulus Control\obj\Debug\Stimulus Control.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Saulo&Tathi\Desktop\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.formConfig.resources
+C:\Documents and Settings\Saulo&Tathi\Desktop\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.formDrvLINX.resources
+C:\Documents and Settings\Saulo&Tathi\Desktop\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.formExperimento.resources
+C:\Documents and Settings\Saulo&Tathi\Desktop\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.formExperimentoHB.resources
+C:\Documents and Settings\Saulo&Tathi\Desktop\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.formSobre.resources
+C:\Documents and Settings\Saulo&Tathi\Desktop\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.formSplash.resources
+C:\Documents and Settings\Saulo&Tathi\Desktop\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.Resources.resources
+C:\Documents and Settings\Saulo&Tathi\Desktop\Stimulus Control\Stimulus Control\obj\Debug\Stimulus Control.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Saulo&Tathi\Desktop\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Saulo&Tathi\Desktop\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Saulo&Tathi\Desktop\Stimulus Control\Stimulus Control\obj\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Saulo&Tathi\Desktop\Stimulus Control\Stimulus Control\bin\Debug\Stimulus_Control.exe.config
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Stimulus Control\Stimulus Control\bin\Debug\Stimulus_Control.exe.config
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1007\Stimulus Control\bin\Debug\Stimulus_Control.exe.config
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1007\Stimulus Control\bin\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1007\Stimulus Control\bin\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1007\Stimulus Control\bin\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1007\Stimulus Control\bin\Debug\Interop.KDIGIOLib.dll
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1007\Stimulus Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1007\Stimulus Control\obj\Debug\Interop.KDIGIOLib.dll
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1007\Stimulus Control\obj\Debug\Stimulus Control.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1007\Stimulus Control\obj\Debug\Stimulus_Control.formConfig.resources
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1007\Stimulus Control\obj\Debug\Stimulus_Control.formDrvLINX.resources
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1007\Stimulus Control\obj\Debug\Stimulus_Control.formExperimento.resources
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1007\Stimulus Control\obj\Debug\Stimulus_Control.formExperimentoHB.resources
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1007\Stimulus Control\obj\Debug\Stimulus_Control.formSobre.resources
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1007\Stimulus Control\obj\Debug\Stimulus_Control.formSplash.resources
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1007\Stimulus Control\obj\Debug\Stimulus_Control.Resources.resources
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1007\Stimulus Control\obj\Debug\Stimulus Control.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1007\Stimulus Control\obj\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1007\Stimulus Control\obj\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1007\Stimulus Control\obj\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\bin\Debug\Stimulus_Control.exe.config
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\bin\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\bin\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\bin\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\bin\Debug\Interop.KDIGIOLib.dll
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Interop.KDIGIOLib.dll
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Stimulus Control.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Stimulus_Control.formConfig.resources
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Stimulus_Control.formDrvLINX.resources
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Stimulus_Control.formExperimento.resources
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Stimulus_Control.formExperimentoHB.resources
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Stimulus_Control.formSobre.resources
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Stimulus_Control.formSplash.resources
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Stimulus_Control.Resources.resources
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Stimulus Control.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Stimulus_Control.pdb
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\ResolveAssemblyReference.cache
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Stimulus Control.vbproj.ResolveComReference.cache
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Stimulus_Control.formConfig.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Stimulus_Control.formDrvLINX.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Stimulus_Control.formExperimento.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Stimulus_Control.formExperimentoHB.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Stimulus_Control.formSobre.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Stimulus_Control.formSplash.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Stimulus_Control.Resources.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Stimulus Control.vbproj.GenerateResource.Cache
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Stimulus_Control.exe
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Stimulus_Control.xml
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\obj\Debug\Stimulus_Control.pdb
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1100\Stimulus Control\bin\Debug\Stimulus_Control.exe.config
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1101\Stimulus Control\bin\Debug\Stimulus_Control.exe.config
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1101\Stimulus Control\bin\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1101\Stimulus Control\bin\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1101\Stimulus Control\bin\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1101\Stimulus Control\bin\Debug\Interop.KDIGIOLib.dll
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1101\Stimulus Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1101\Stimulus Control\obj\Debug\Interop.KDIGIOLib.dll
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1101\Stimulus Control\obj\Debug\Stimulus Control.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1101\Stimulus Control\obj\Debug\Stimulus_Control.formConfig.resources
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1101\Stimulus Control\obj\Debug\Stimulus_Control.formDrvLINX.resources
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1101\Stimulus Control\obj\Debug\Stimulus_Control.formExperimento.resources
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1101\Stimulus Control\obj\Debug\Stimulus_Control.formExperimentoHB.resources
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1101\Stimulus Control\obj\Debug\Stimulus_Control.formSobre.resources
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1101\Stimulus Control\obj\Debug\Stimulus_Control.formSplash.resources
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1101\Stimulus Control\obj\Debug\Stimulus_Control.Resources.resources
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1101\Stimulus Control\obj\Debug\Stimulus Control.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1101\Stimulus Control\obj\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1101\Stimulus Control\obj\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Owner\My Documents\My Dropbox\Stimulus Control\Stimulus Control 1101\Stimulus Control\obj\Debug\Stimulus_Control.pdb
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1102\Stimulus Control\bin\Debug\Stimulus_Control.exe.config
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1102\Stimulus Control\obj\Debug\Stimulus Control.vbproj.ResolveComReference.cache
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1102\Stimulus Control\obj\Debug\Stimulus_Control.exe
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1102\Stimulus Control\obj\Debug\Stimulus_Control.xml
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1102\Stimulus Control\obj\Debug\Stimulus_Control.pdb
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1102\Stimulus Control\bin\Debug\Stimulus_Control.exe
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1102\Stimulus Control\bin\Debug\Stimulus_Control.pdb
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1102\Stimulus Control\bin\Debug\Stimulus_Control.xml
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1102\Stimulus Control\obj\Debug\ResolveAssemblyReference.cache
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1102\Stimulus Control\obj\Debug\Stimulus_Control.formConfig.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1102\Stimulus Control\obj\Debug\Stimulus_Control.formDrvLINX.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1102\Stimulus Control\obj\Debug\Stimulus_Control.formExperimento.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1102\Stimulus Control\obj\Debug\Stimulus_Control.formExperimentoHB.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1102\Stimulus Control\obj\Debug\Stimulus_Control.formSobre.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1102\Stimulus Control\obj\Debug\Stimulus_Control.formSplash.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1102\Stimulus Control\obj\Debug\Stimulus_Control.Resources.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1102\Stimulus Control\obj\Debug\Stimulus Control.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1102\Stimulus Control\bin\Debug\Stimulus_Control.exe.config
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1102\Stimulus Control\bin\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1102\Stimulus Control\bin\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1102\Stimulus Control\bin\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1102\Stimulus Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1102\Stimulus Control\obj\Debug\Stimulus Control.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1102\Stimulus Control\obj\Debug\Stimulus_Control.formConfig.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1102\Stimulus Control\obj\Debug\Stimulus_Control.formDrvLINX.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1102\Stimulus Control\obj\Debug\Stimulus_Control.formExperimento.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1102\Stimulus Control\obj\Debug\Stimulus_Control.formExperimentoHB.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1102\Stimulus Control\obj\Debug\Stimulus_Control.formSobre.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1102\Stimulus Control\obj\Debug\Stimulus_Control.formSplash.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1102\Stimulus Control\obj\Debug\Stimulus_Control.Resources.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1102\Stimulus Control\obj\Debug\Stimulus Control.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1102\Stimulus Control\obj\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1102\Stimulus Control\obj\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1102\Stimulus Control\obj\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1103\Stimulus Control\bin\Debug\Stimulus_Control.exe.config
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1103\Stimulus Control\bin\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1103\Stimulus Control\bin\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1103\Stimulus Control\bin\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1103\Stimulus Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1103\Stimulus Control\obj\Debug\Stimulus Control.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1103\Stimulus Control\obj\Debug\Stimulus_Control.formConfig.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1103\Stimulus Control\obj\Debug\Stimulus_Control.formDrvLINX.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1103\Stimulus Control\obj\Debug\Stimulus_Control.formExperimento.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1103\Stimulus Control\obj\Debug\Stimulus_Control.formExperimentoHB.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1103\Stimulus Control\obj\Debug\Stimulus_Control.formSobre.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1103\Stimulus Control\obj\Debug\Stimulus_Control.formSplash.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1103\Stimulus Control\obj\Debug\Stimulus_Control.Resources.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1103\Stimulus Control\obj\Debug\Stimulus Control.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1103\Stimulus Control\obj\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1103\Stimulus Control\obj\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1103\Stimulus Control\obj\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1200\Stimulus Control\bin\Debug\Stimulus_Control.exe.config
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1200\Stimulus Control\bin\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1200\Stimulus Control\bin\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1200\Stimulus Control\bin\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1200\Stimulus Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1200\Stimulus Control\obj\Debug\Stimulus Control.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1200\Stimulus Control\obj\Debug\Stimulus_Control.formConfig.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1200\Stimulus Control\obj\Debug\Stimulus_Control.formDrvLINX.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1200\Stimulus Control\obj\Debug\Stimulus_Control.formExperimento.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1200\Stimulus Control\obj\Debug\Stimulus_Control.formExperimentoHB.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1200\Stimulus Control\obj\Debug\Stimulus_Control.formSobre.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1200\Stimulus Control\obj\Debug\Stimulus_Control.formSplash.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1200\Stimulus Control\obj\Debug\Stimulus_Control.Resources.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1200\Stimulus Control\obj\Debug\Stimulus Control.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1200\Stimulus Control\obj\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1200\Stimulus Control\obj\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1200\Stimulus Control\obj\Debug\Stimulus_Control.pdb
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1201\Stimulus Control\bin\Debug\Stimulus_Control.exe.config
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1201\Stimulus Control\obj\Debug\Stimulus Control.vbproj.ResolveComReference.cache
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1201\Stimulus Control\obj\Debug\Stimulus_Control.exe
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1201\Stimulus Control\obj\Debug\Stimulus_Control.xml
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1201\Stimulus Control\obj\Debug\Stimulus_Control.pdb
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1201\Stimulus Control\bin\Debug\Stimulus_Control.exe
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1201\Stimulus Control\bin\Debug\Stimulus_Control.pdb
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1201\Stimulus Control\bin\Debug\Stimulus_Control.xml
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1201\Stimulus Control\obj\Debug\ResolveAssemblyReference.cache
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1201\Stimulus Control\obj\Debug\Stimulus_Control.formConfig.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1201\Stimulus Control\obj\Debug\Stimulus_Control.formDrvLINX.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1201\Stimulus Control\obj\Debug\Stimulus_Control.formExperimento.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1201\Stimulus Control\obj\Debug\Stimulus_Control.formExperimentoHB.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1201\Stimulus Control\obj\Debug\Stimulus_Control.formSobre.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1201\Stimulus Control\obj\Debug\Stimulus_Control.formSplash.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1201\Stimulus Control\obj\Debug\Stimulus_Control.Resources.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1201\Stimulus Control\obj\Debug\Stimulus Control.vbproj.GenerateResource.Cache
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control EDSON\Stimulus Control\bin\Debug\Stimulus_Control.exe.config
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control EDSON\Stimulus Control\bin\Debug\Stimulus_Control.exe
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control EDSON\Stimulus Control\bin\Debug\Stimulus_Control.pdb
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control EDSON\Stimulus Control\bin\Debug\Stimulus_Control.xml
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control EDSON\Stimulus Control\obj\Debug\ResolveAssemblyReference.cache
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control EDSON\Stimulus Control\obj\Debug\Stimulus Control.vbproj.ResolveComReference.cache
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control EDSON\Stimulus Control\obj\Debug\Stimulus_Control.formConfig.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control EDSON\Stimulus Control\obj\Debug\Stimulus_Control.formDrvLINX.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control EDSON\Stimulus Control\obj\Debug\Stimulus_Control.formExperimento.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control EDSON\Stimulus Control\obj\Debug\Stimulus_Control.formExperimentoHB.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control EDSON\Stimulus Control\obj\Debug\Stimulus_Control.formSobre.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control EDSON\Stimulus Control\obj\Debug\Stimulus_Control.formSplash.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control EDSON\Stimulus Control\obj\Debug\Stimulus_Control.Resources.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control EDSON\Stimulus Control\obj\Debug\Stimulus Control.vbproj.GenerateResource.Cache
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control EDSON\Stimulus Control\obj\Debug\Stimulus_Control.exe
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control EDSON\Stimulus Control\obj\Debug\Stimulus_Control.xml
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control EDSON\Stimulus Control\obj\Debug\Stimulus_Control.pdb
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1202\Stimulus Control\bin\Debug\Stimulus_Control.exe.config
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus Control.vbproj.ResolveComReference.cache
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.exe
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.xml
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.pdb
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1202\Stimulus Control\bin\Debug\Stimulus_Control.exe
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1202\Stimulus Control\bin\Debug\Stimulus_Control.pdb
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1202\Stimulus Control\bin\Debug\Stimulus_Control.xml
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1202\Stimulus Control\obj\Debug\ResolveAssemblyReference.cache
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.formConfig.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.formDrvLINX.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.formExperimento.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.formExperimentoHB.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.formSobre.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.formSplash.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.Resources.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus Control.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1202\Stimulus Control\bin\Debug\Stimulus_Control.exe.config
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus Control.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1202\Stimulus Control\bin\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1202\Stimulus Control\bin\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1202\Stimulus Control\bin\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.formConfig.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.formDrvLINX.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.formExperimento.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.formExperimentoHB.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.formSobre.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.formSplash.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.Resources.resources
+C:\Documents and Settings\Gérson Yukio Tomanar\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus Control.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1202\Stimulus Control\bin\Debug\Stimulus_Control.exe.config
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1202\Stimulus Control\bin\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1202\Stimulus Control\bin\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1202\Stimulus Control\bin\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus Control.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.formConfig.resources
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.formDrvLINX.resources
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.formExperimento.resources
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.formExperimentoHB.resources
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.formSobre.resources
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.formSplash.resources
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.Resources.resources
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus Control.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1202\Stimulus Control\obj\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1203\Stimulus Control\bin\Debug\Stimulus_Control.exe.config
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1203\Stimulus Control\bin\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1203\Stimulus Control\bin\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1203\Stimulus Control\bin\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1203\Stimulus Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1203\Stimulus Control\obj\Debug\Stimulus Control.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1203\Stimulus Control\obj\Debug\Stimulus_Control.formConfig.resources
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1203\Stimulus Control\obj\Debug\Stimulus_Control.formDrvLINX.resources
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1203\Stimulus Control\obj\Debug\Stimulus_Control.formExperimento.resources
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1203\Stimulus Control\obj\Debug\Stimulus_Control.formExperimentoHB.resources
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1203\Stimulus Control\obj\Debug\Stimulus_Control.formSobre.resources
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1203\Stimulus Control\obj\Debug\Stimulus_Control.formSplash.resources
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1203\Stimulus Control\obj\Debug\Stimulus_Control.Resources.resources
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1203\Stimulus Control\obj\Debug\Stimulus Control.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1203\Stimulus Control\obj\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1203\Stimulus Control\obj\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1203\Stimulus Control\obj\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Saulo\Desktop\Control 1204\Stimulus Control\bin\Debug\Stimulus_Control.exe.config
+C:\Documents and Settings\Saulo\Desktop\Control 1204\Stimulus Control\obj\Debug\Stimulus Control.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Saulo\Desktop\Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Saulo\Desktop\Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Saulo\Desktop\Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Saulo\Desktop\Control 1204\Stimulus Control\bin\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Saulo\Desktop\Control 1204\Stimulus Control\bin\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Saulo\Desktop\Control 1204\Stimulus Control\bin\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Saulo\Desktop\Control 1204\Stimulus Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Saulo\Desktop\Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.formConfig.resources
+C:\Documents and Settings\Saulo\Desktop\Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.formDrvLINX.resources
+C:\Documents and Settings\Saulo\Desktop\Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.formExperimento.resources
+C:\Documents and Settings\Saulo\Desktop\Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.formExperimentoHB.resources
+C:\Documents and Settings\Saulo\Desktop\Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.formSobre.resources
+C:\Documents and Settings\Saulo\Desktop\Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.formSplash.resources
+C:\Documents and Settings\Saulo\Desktop\Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.Resources.resources
+C:\Documents and Settings\Saulo\Desktop\Control 1204\Stimulus Control\obj\Debug\Stimulus Control.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Saulo\Desktop\Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.FormInvisivel.resources
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1204\Stimulus Control\bin\Debug\Stimulus_Control.exe.config
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1204\Stimulus Control\bin\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1204\Stimulus Control\bin\Debug\Stimulus_Control.pdb
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1204\Stimulus Control\bin\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1204\Stimulus Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus Control.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.formConfig.resources
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.formDrvLINX.resources
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.formExperimento.resources
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.formExperimentoHB.resources
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.FormInvisivel.resources
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.formSobre.resources
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.formSplash.resources
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.Resources.resources
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus Control.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.exe
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.xml
+C:\Documents and Settings\Saulo\Desktop\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.pdb
+\\Vboxsvr\dropbox\Stimulus Control 1204\Stimulus Control\bin\Debug\Stimulus_Control.exe.config
+\\Vboxsvr\dropbox\Stimulus Control 1204\Stimulus Control\bin\Debug\Stimulus_Control.exe
+\\Vboxsvr\dropbox\Stimulus Control 1204\Stimulus Control\bin\Debug\Stimulus_Control.pdb
+\\Vboxsvr\dropbox\Stimulus Control 1204\Stimulus Control\bin\Debug\Stimulus_Control.xml
+\\Vboxsvr\dropbox\Stimulus Control 1204\Stimulus Control\obj\Debug\ResolveAssemblyReference.cache
+\\Vboxsvr\dropbox\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus Control.vbproj.ResolveComReference.cache
+\\Vboxsvr\dropbox\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.formConfig.resources
+\\Vboxsvr\dropbox\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.formDrvLINX.resources
+\\Vboxsvr\dropbox\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.formExperimento.resources
+\\Vboxsvr\dropbox\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.formExperimentoHB.resources
+\\Vboxsvr\dropbox\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.FormInvisivel.resources
+\\Vboxsvr\dropbox\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.formSobre.resources
+\\Vboxsvr\dropbox\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.formSplash.resources
+\\Vboxsvr\dropbox\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.Resources.resources
+\\Vboxsvr\dropbox\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus Control.vbproj.GenerateResource.Cache
+\\Vboxsvr\dropbox\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.exe
+\\Vboxsvr\dropbox\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.xml
+\\Vboxsvr\dropbox\Stimulus Control 1204\Stimulus Control\obj\Debug\Stimulus_Control.pdb
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1204 (FormInvísible)\Stimulus Control\bin\Debug\Stimulus_Control.exe.config
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1204 (FormInvísible)\Stimulus Control\obj\Debug\Stimulus Control.vbproj.ResolveComReference.cache
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1204 (FormInvísible)\Stimulus Control\obj\Debug\Stimulus_Control.exe
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1204 (FormInvísible)\Stimulus Control\obj\Debug\Stimulus_Control.xml
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1204 (FormInvísible)\Stimulus Control\obj\Debug\Stimulus_Control.pdb
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1204 (FormInvísible)\Stimulus Control\bin\Debug\Stimulus_Control.exe
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1204 (FormInvísible)\Stimulus Control\bin\Debug\Stimulus_Control.pdb
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1204 (FormInvísible)\Stimulus Control\bin\Debug\Stimulus_Control.xml
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1204 (FormInvísible)\Stimulus Control\obj\Debug\ResolveAssemblyReference.cache
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1204 (FormInvísible)\Stimulus Control\obj\Debug\Stimulus_Control.formConfig.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1204 (FormInvísible)\Stimulus Control\obj\Debug\Stimulus_Control.formDrvLINX.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1204 (FormInvísible)\Stimulus Control\obj\Debug\Stimulus_Control.formExperimento.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1204 (FormInvísible)\Stimulus Control\obj\Debug\Stimulus_Control.formExperimentoHB.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1204 (FormInvísible)\Stimulus Control\obj\Debug\Stimulus_Control.FormInvisivel.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1204 (FormInvísible)\Stimulus Control\obj\Debug\Stimulus_Control.formSobre.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1204 (FormInvísible)\Stimulus Control\obj\Debug\Stimulus_Control.formSplash.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1204 (FormInvísible)\Stimulus Control\obj\Debug\Stimulus_Control.Resources.resources
+\\Vboxsvr\dropbox\Stimulus Control\Stimulus Control 1204 (FormInvísible)\Stimulus Control\obj\Debug\Stimulus Control.vbproj.GenerateResource.Cache
